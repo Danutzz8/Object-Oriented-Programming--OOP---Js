@@ -9,6 +9,7 @@ header {
     background-image: url(https://www.brandlearning.com/media/4143/catching-the-waves-of-growth-through-innovation432d.png?mode=pad&rnd=131758019010000000);
     -webkit-background-clip: text;
     color: transparent;
+   
 }
 
 .text {
@@ -22,6 +23,7 @@ button {
 
 .es6 {
     margin: 0 3em;
+    background-color: rgba(236, 236, 236, 0.842);
 }
 
 h2 {
