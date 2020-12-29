@@ -1,0 +1,29 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e0dfdf;
+}
+
+header {
+    text-align: center;
+    font-size: 2rem;
+    background-image: url(https://www.brandlearning.com/media/4143/catching-the-waves-of-growth-through-innovation432d.png?mode=pad&rnd=131758019010000000);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.text {
+    margin: 2em 3em;
+}
+
+button {
+    margin: 1em 3em;
+    width: 5em;
+}
+
+.es6 {
+    margin: 0 3em;
+}
+
+h2 {
+    text-align: center;
+}
